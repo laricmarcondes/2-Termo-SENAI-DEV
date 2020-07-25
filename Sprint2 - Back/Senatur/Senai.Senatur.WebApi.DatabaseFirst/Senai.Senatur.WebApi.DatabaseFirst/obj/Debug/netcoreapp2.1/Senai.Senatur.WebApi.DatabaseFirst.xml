@@ -1,0 +1,296 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Senai.Senatur.WebApi.DatabaseFirst</name>
+    </assembly>
+    <members>
+        <member name="T:Senai.Senatur.WebApi.DatabaseFirst.Domains.SenaturContext">
+            <summary>
+            Classe responsável pelo contexto do projeto
+            Faz a comunicação entre API e Banco de Dados
+            </summary>
+        </member>
+        <member name="P:Senai.Senatur.WebApi.DatabaseFirst.Controllers.LoginController._usuarioRepository">
+            <summary>
+            Cria um objeto _usuarioRepository que irá receber todos os métodos definidos na interface
+            </summary>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Controllers.LoginController.#ctor">
+            <summary>
+            Cria um objeto _usuarioRepository que irá receber todos os métodos definidos na interface
+            </summary>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Controllers.LoginController.Post(Senai.Senatur.WebApi.DatabaseFirst.ViewModels.LoginViewModel)">
+            <summary>
+            Valida o usuário
+            </summary>
+            <param name="login">Objeto login que contém o e-mail e a senha do usuário</param>
+            <returns>Retorna um token com as informações do usuário</returns>
+        </member>
+        <member name="F:Senai.Senatur.WebApi.DatabaseFirst.Controllers.PacotesController._pacotesRepository">
+            <summary>
+            Cria um objeto _pacotesRepository que irá receber todos os métodos definidos na interface
+            </summary>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Controllers.PacotesController.#ctor">
+            <summary>
+            Instancia este objeto para que haja a referência aos métodos no repositório
+            </summary>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Controllers.PacotesController.Get">
+            <summary>
+            Lista todos os pacotes
+            </summary>
+            <returns>Uma lista de pacotes e um status code 200 - Ok</returns>
+            dominio/api/Pacotes
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Controllers.PacotesController.Post(Senai.Senatur.WebApi.DatabaseFirst.Domains.Pacotes)">
+            <summary>
+            Cadastra um novo pacote
+            </summary>
+            <param name="novopacote">Objeto novopacote que será cadastrado</param>
+            <returns>Os dados que foram enviados para cadastro e um status code 201 - Created</returns>
+            dominio/api/Pacotes
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Controllers.PacotesController.GetById(System.Int32)">
+            <summary>
+            Busca um pacote através do seu ID
+            </summary>
+            <param name="id">ID do pacote que será buscado</param>
+            <returns>Um pacote buscado ou NotFound caso nenhum seja encontrado</returns>
+            dominio/api/Pacotes/1
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Controllers.PacotesController.Put(System.Int32,Senai.Senatur.WebApi.DatabaseFirst.Domains.Pacotes)">
+            <summary>
+            Atualiza um pacote existente
+            </summary>
+            <param name="id">ID do pacote que será atualizado</param>
+            <param name="jogoAtualizado">Objeto pacoteAtualizado que será alterado</param>
+            <returns>Retorna um status code</returns>
+            dominio/api/Pacotes/1
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Controllers.PacotesController.Delete(System.Int32)">
+            <summary>
+            Deleta um pacote
+            </summary>
+            <param name="id">ID do pacote que será deletado</param>
+            <returns>Um status code com uma mensagem de sucesso ou erro</returns>
+            dominio/api/Pacotes/1
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Controllers.PacotesController.PacotesAtivos(System.Boolean)">
+            <summary>
+            Busca os pacotes ativos e não ativos ao digitar 'true' ou 'false' no final da url
+            </summary>
+            <param name="pacotesAtivos"></param>
+            <returns>Uma lista dos pacotes ativos e não ativos ao digitar 'true' ou 'false' no final da url</returns>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Controllers.PacotesController.PacotesCidades(System.String)">
+            <summary>
+            Lista todos os pacotes de acordo com a cidade buscada
+            </summary>
+            <param name="cidade"></param>
+            <returns>Uma lista dos pacotes de acordo com a cidade desejada</returns>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Controllers.PacotesController.GetOrderBy(System.String)">
+            <summary>
+            Ordena todos os pacotes em ordem crescente ou decrescente
+            </summary>
+            <param name="ordem"> a ordem em que os pacotes serão listados</param>
+            <returns>Uma lista dos pacotes de acordo com o desejado</returns>
+        </member>
+        <member name="F:Senai.Senatur.WebApi.DatabaseFirst.Controllers.TiposUsuarioController._tiposUsuarioRepository">
+            <summary>
+            Cria um objeto _tipoUsuarioRepository que irá receber todos os métodos definidos na interface
+            </summary>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Controllers.TiposUsuarioController.#ctor">
+            <summary>
+            Instancia este objeto para que haja a referência aos métodos no repositório
+            </summary>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Controllers.TiposUsuarioController.Get">
+            <summary>
+            Lista todos os tipos de usuário
+            </summary>
+            <returns>Uma lista de tipos de usuário e um status code 200 - Ok</returns>
+        </member>
+        <member name="F:Senai.Senatur.WebApi.DatabaseFirst.Controllers.UsuariosController._usuarioRepository">
+            <summary>
+            Cria um objeto _usuarioRepository que irá receber todos os métodos definidos na interface
+            </summary>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Controllers.UsuariosController.#ctor">
+            <summary>
+            Instancia este objeto para que haja a referência aos métodos no repositório
+            </summary>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Controllers.UsuariosController.Get">
+            <summary>
+            Lista todos os usuários
+            </summary>
+            <returns>Uma lista de usuários e um status code 200 - Ok</returns>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Interfaces.IPacoteRepository.Listar">
+            <summary>
+            listar todos os pacotes
+            </summary>
+            <returns>uma lista com todos os pacotes</returns>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Interfaces.IPacoteRepository.BuscarPorId(System.Int32)">
+            <summary>
+            busca um pacote pelo id
+            </summary>
+            <param name="id"></param>
+            <returns> o pacote buscado </returns>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Interfaces.IPacoteRepository.Cadastrar(Senai.Senatur.WebApi.DatabaseFirst.Domains.Pacotes)">
+            <summary>
+            cadastrar pacotes
+            </summary>
+            <param name="id"></param>
+            <param name="novoPacote"></param>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Interfaces.IPacoteRepository.Atualizar(System.Int32,Senai.Senatur.WebApi.DatabaseFirst.Domains.Pacotes)">
+            <summary>
+            atualiza pacotes
+            </summary>
+            <param name="id"></param>
+            <param name="pacoteAtualizado"></param>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Interfaces.IPacoteRepository.Deletar(System.Int32)">
+            <summary>
+            deleta pacotes
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Interfaces.IPacoteRepository.PacotesAtivos(System.Boolean)">
+            <summary>
+            Lista os pacotes ativos e não ativos
+            </summary>
+            <param name="pacotesAtivos"></param>
+            <returns>Uma lista dos pacotes desejados</returns>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Interfaces.IPacoteRepository.ListarPorCidade(System.String)">
+            <summary>
+            Lista os pacotes da cidade desejada
+            </summary>
+            <param name="cidade"></param>
+            <returns>Uma lista com os pacotes da cidade desejada</returns>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Interfaces.IPacoteRepository.ListarOrdenado(System.String)">
+            <summary>
+            Lista todos os pacotes em ordem ordenada ou não ordenada
+            </summary>
+            <param name="ordem"></param>
+            <returns>Uma lista da ordem de pacotes desejada</returns>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Interfaces.ITiposUsuarioRepository.Listar">
+            <summary>
+            Listar todos os tipos de usuario
+            </summary>
+            <returns>Uma lista com os tipos de usuario</returns>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Interfaces.IUsuarioRepository.Listar">
+            <summary>
+            listar todos os usuarios
+            </summary>
+            <returns>Uma lista dos usuarios</returns>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Interfaces.IUsuarioRepository.BuscarPorEmailSenha(System.String,System.String)">
+            <summary>
+            Busca um usuário pelo e-mail e pela senha
+            </summary>
+            <param name="Email"></param>
+            <param name="Senha"></param>
+            <returns>O usuário buscado</returns>
+        </member>
+        <member name="F:Senai.Senatur.WebApi.DatabaseFirst.Repositories.PacoteRepository.ctx">
+            <summary>
+            Objeto contexto por onde serão chamados os métodos do EF Core
+            </summary>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Repositories.PacoteRepository.Listar">
+            <summary>
+            Lista todos os pacotes
+            </summary>
+            <returns>Uma lista de pacotes</returns>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Repositories.PacoteRepository.Atualizar(System.Int32,Senai.Senatur.WebApi.DatabaseFirst.Domains.Pacotes)">
+            <summary>
+            Atualiza um pacote existente
+            </summary>
+            <param name="id">ID do pacote que será atualizado</param>
+            <param name="pacoteAtualizado">Objeto com as novas informações</param>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Repositories.PacoteRepository.BuscarPorId(System.Int32)">
+            <summary>
+            Busca um pacote através do ID
+            </summary>
+            <param name="id">ID do pacote que será buscado</param>
+            <returns>Um pacote buscado</returns>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Repositories.PacoteRepository.Cadastrar(Senai.Senatur.WebApi.DatabaseFirst.Domains.Pacotes)">
+            <summary>
+            Cadastra um novo pacote
+            </summary>
+            <param name="novoPacote">Objeto com as informações de cadastro</param>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Repositories.PacoteRepository.Deletar(System.Int32)">
+            <summary>
+            Deleta um pacote existente
+            </summary>
+            <param name="id">ID do pacote que será deletado</param>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Repositories.PacoteRepository.PacotesAtivos(System.Boolean)">
+            <summary>
+            Lista os pacotes ativos e não ativos
+            </summary>
+            <param name="pacotesAtivos"></param>
+            <returns>Uma lista dos pacotes desejados</returns>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Repositories.PacoteRepository.ListarPorCidade(System.String)">
+            <summary>
+            Lista os pacotes buscados por uma cidade
+            </summary>
+            <param name="cidade"></param>
+            <returns>Uma lista dos pacotes buscados pela cidade</returns>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Repositories.PacoteRepository.ListarOrdenado(System.String)">
+            <summary>
+            Lista os pacotes um uma ordem
+            </summary>
+            <param name="ordem"></param>
+            <returns>Uma lista com os pacotes na ordem desejada</returns>
+        </member>
+        <member name="F:Senai.Senatur.WebApi.DatabaseFirst.Repositories.TiposUsuarioRepository.ctx">
+            <summary>
+            Objeto contexto por onde serão chamados os métodos do EF Core
+            </summary>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Repositories.TiposUsuarioRepository.Listar">
+            <summary>
+            Lista todos os tipos de usuário
+            </summary>
+            <returns>Uma lista de tipos de usuário</returns>
+        </member>
+        <member name="F:Senai.Senatur.WebApi.DatabaseFirst.Repositories.UsuarioRepository.ctx">
+            <summary>
+            Objeto contexto por onde serão chamados os métodos do EF Core
+            </summary>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Repositories.UsuarioRepository.Listar">
+            <summary>
+            Lista todos os usuários
+            </summary>
+            <returns>Uma lista de usuários</returns>
+        </member>
+        <member name="M:Senai.Senatur.WebApi.DatabaseFirst.Repositories.UsuarioRepository.BuscarPorEmailSenha(System.String,System.String)">
+            <summary>
+            Busca um usuário pelo e-mail e pela senha
+            </summary>
+            <param name="Email"></param>
+            <param name="Senha"></param>
+            <returns> O usuário buscado</returns>
+        </member>
+    </members>
+</doc>

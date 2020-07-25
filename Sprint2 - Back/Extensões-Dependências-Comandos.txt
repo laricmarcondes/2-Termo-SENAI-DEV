@@ -1,0 +1,36 @@
+	Extensões para gerar o token 
+
+System.IdentityModel.Tokens.Jwt
+Microsoft.AspNetCore.Authentication.JwtBearer (2.1.1)
+
+
+	Extensão para adicionar swagger 
+
+Swashbuckle.AspNetCore
+
+	Extensão que fornece o provedor de dados para o SQL Server
+
+System.Data.SqlClient
+
+
+	Dependências 
+
+Microsoft.EntityFrameworkCore.Design (2.1.14)
+Microsoft.EntityFrameworkCore.SqlServer (2.1.14)
+Microsoft.EntityFrameworkCore.Tools (2.1.14)
+
+
+	Para abrir o console
+
+Ferramentas > Gerenciador Pacotes do NuGet > Console do Gerenciador de Pacotes 
+
+
+	Comando Scaffold (para criar os domains a partir do banco de dados)
+
+Scaffold-DbContext "Data Source=LAPTOP-CAKD8JG2\SQLEXPRESS; Initial Catalog=SpMedGroup_Tarde; user Id=sa; pwd=sa@132;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Domains -ContextDir Contexts -Context SpMedGroupContext
+
+
+	Comando Add Migration (para criar as tabelas do banco de dados a partir do domain)
+
+Add-Migration Cria-Banco
+Update-Database

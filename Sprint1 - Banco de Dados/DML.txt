@@ -1,0 +1,24 @@
+	
+	DML
+
+
+-- ALTERAR DADOS Update
+
+--UPDATE Artistas
+--SET Nome = 'Zeca Pagodinho'
+--WHERE IdArtistas = 2;
+
+
+--LIMPAR TODOS OD DADOS DA TABELA
+--TRUNCATE TABLE nome da tabela;
+
+--APAGAR UMA LINHA INTEIRA DA TABELA
+--DELETE FROM Albuns
+--WHERE IdAlbum=2;
+
+
+-- ADICIONAR MAIS DADOS EX: ********
+--INSERT INTO Estilos (Nome)- Colocar o nome da tabela
+--VALUES ('Pop'), - Colocar os novos dados
+	 ('Reggae');
+--******************************

@@ -1,0 +1,82 @@
+C:\Users\saulo\Downloads\senai-dev-1s2020-alunos\sprint2-backend\tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.deps.json
+C:\Users\saulo\Downloads\senai-dev-1s2020-alunos\sprint2-backend\tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.runtimeconfig.json
+C:\Users\saulo\Downloads\senai-dev-1s2020-alunos\sprint2-backend\tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.runtimeconfig.dev.json
+C:\Users\saulo\Downloads\senai-dev-1s2020-alunos\sprint2-backend\tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.dll
+C:\Users\saulo\Downloads\senai-dev-1s2020-alunos\sprint2-backend\tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.csprojAssemblyReference.cache
+C:\Users\saulo\Downloads\senai-dev-1s2020-alunos\sprint2-backend\tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\saulo\Downloads\senai-dev-1s2020-alunos\sprint2-backend\tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.RazorAssemblyInfo.cache
+C:\Users\saulo\Downloads\senai-dev-1s2020-alunos\sprint2-backend\tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.RazorAssemblyInfo.cs
+C:\Users\saulo\Downloads\senai-dev-1s2020-alunos\sprint2-backend\tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.AssemblyInfoInputs.cache
+C:\Users\saulo\Downloads\senai-dev-1s2020-alunos\sprint2-backend\tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.AssemblyInfo.cs
+C:\Users\saulo\Downloads\senai-dev-1s2020-alunos\sprint2-backend\tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\saulo\Downloads\senai-dev-1s2020-alunos\sprint2-backend\tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.pdb
+C:\Users\saulo\Downloads\senai-dev-1s2020-alunos\sprint2-backend\tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.dll
+C:\Users\saulo\Downloads\senai-dev-1s2020-alunos\sprint2-backend\tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.pdb
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.deps.json
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.runtimeconfig.json
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.runtimeconfig.dev.json
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.dll
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.pdb
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.csprojAssemblyReference.cache
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.RazorAssemblyInfo.cache
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.RazorAssemblyInfo.cs
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.AssemblyInfoInputs.cache
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.AssemblyInfo.cs
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.dll
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.pdb
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.xml
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.xml
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.csprojAssemblyReference.cache
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.RazorAssemblyInfo.cache
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.RazorAssemblyInfo.cs
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.AssemblyInfoInputs.cache
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.AssemblyInfo.cs
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.dll
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.xml
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.pdb
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.deps.json
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.runtimeconfig.json
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.runtimeconfig.dev.json
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.dll
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.pdb
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.xml
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.deps.json
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.runtimeconfig.json
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.runtimeconfig.dev.json
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.dll
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.pdb
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.xml
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.csprojAssemblyReference.cache
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.RazorAssemblyInfo.cache
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.RazorAssemblyInfo.cs
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.AssemblyInfoInputs.cache
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.AssemblyInfo.cs
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.dll
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.xml
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.pdb
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.genruntimeconfig.cache
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.deps.json
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.runtimeconfig.json
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.runtimeconfig.dev.json
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.dll
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.pdb
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.xml
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.csprojAssemblyReference.cache
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.RazorAssemblyInfo.cache
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.RazorAssemblyInfo.cs
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.AssemblyInfoInputs.cache
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.AssemblyInfo.cs
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.dll
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.xml
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.pdb
+C:\Users\Laric\OneDrive\Documentos\SENAI\2ºTermo\Minhas coisas\Sprint2\Gufi\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.genruntimeconfig.cache

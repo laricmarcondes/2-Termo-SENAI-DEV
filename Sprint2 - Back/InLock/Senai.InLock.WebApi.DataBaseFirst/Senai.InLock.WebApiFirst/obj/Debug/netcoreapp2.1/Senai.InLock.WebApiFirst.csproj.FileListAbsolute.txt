@@ -1,0 +1,14 @@
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\InLock\Senai.InLock.WebApiFirst\Senai.InLock.WebApiFirst\bin\Debug\netcoreapp2.1\Senai.InLock.WebApiFirst.deps.json
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\InLock\Senai.InLock.WebApiFirst\Senai.InLock.WebApiFirst\bin\Debug\netcoreapp2.1\Senai.InLock.WebApiFirst.runtimeconfig.json
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\InLock\Senai.InLock.WebApiFirst\Senai.InLock.WebApiFirst\bin\Debug\netcoreapp2.1\Senai.InLock.WebApiFirst.runtimeconfig.dev.json
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\InLock\Senai.InLock.WebApiFirst\Senai.InLock.WebApiFirst\bin\Debug\netcoreapp2.1\Senai.InLock.WebApiFirst.dll
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\InLock\Senai.InLock.WebApiFirst\Senai.InLock.WebApiFirst\obj\Debug\netcoreapp2.1\Senai.InLock.WebApiFirst.csprojAssemblyReference.cache
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\InLock\Senai.InLock.WebApiFirst\Senai.InLock.WebApiFirst\obj\Debug\netcoreapp2.1\Senai.InLock.WebApiFirst.csproj.CoreCompileInputs.cache
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\InLock\Senai.InLock.WebApiFirst\Senai.InLock.WebApiFirst\obj\Debug\netcoreapp2.1\Senai.InLock.WebApiFirst.RazorAssemblyInfo.cache
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\InLock\Senai.InLock.WebApiFirst\Senai.InLock.WebApiFirst\obj\Debug\netcoreapp2.1\Senai.InLock.WebApiFirst.RazorAssemblyInfo.cs
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\InLock\Senai.InLock.WebApiFirst\Senai.InLock.WebApiFirst\obj\Debug\netcoreapp2.1\Senai.InLock.WebApiFirst.AssemblyInfoInputs.cache
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\InLock\Senai.InLock.WebApiFirst\Senai.InLock.WebApiFirst\obj\Debug\netcoreapp2.1\Senai.InLock.WebApiFirst.AssemblyInfo.cs
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\InLock\Senai.InLock.WebApiFirst\Senai.InLock.WebApiFirst\obj\Debug\netcoreapp2.1\Senai.InLock.WebApiFirst.RazorTargetAssemblyInfo.cache
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\InLock\Senai.InLock.WebApiFirst\Senai.InLock.WebApiFirst\bin\Debug\netcoreapp2.1\Senai.InLock.WebApiFirst.pdb
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\InLock\Senai.InLock.WebApiFirst\Senai.InLock.WebApiFirst\obj\Debug\netcoreapp2.1\Senai.InLock.WebApiFirst.dll
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\InLock\Senai.InLock.WebApiFirst\Senai.InLock.WebApiFirst\obj\Debug\netcoreapp2.1\Senai.InLock.WebApiFirst.pdb

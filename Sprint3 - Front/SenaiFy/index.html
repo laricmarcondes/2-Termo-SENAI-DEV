@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- para o navegador entender a escala do mobile/responsivo -->
+    <title>Senaify</title>
+    <link rel="stylesheet" href="style.css"></link> <!-- chama o css -->
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <img src="logo-branco.png" alt="logo do senai em branco">
+            </div>
+            <button id="botao">Login</button>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Sua música. Sua programação.</h1>
+        <h2>Qualquer semelhança com outras plataformas é mera coincidência.</h2>
+    </main>
+
+    <!--modal-->
+    <div id="fundo">
+        <div id="modal">
+            <button id="fechar">Fechar</button>
+            <img src="logo-vertical.png" alt="logo senai vermelho">
+            <form action="#">
+                <div>
+                    <input type="email" required placeholder="Email">
+                </div>
+
+                <div>
+                    <input type="password" required placeholder="Senha">
+                </div>
+
+                <button>Logar</button>
+            </form>
+        </div>
+    </div>
+    <!--fim modal-->
+    <script src="script.js"></script> <!--chama as ações do java (deve ser no final para não dar erro)-->
+</body>
+
+</html>

@@ -1,0 +1,42 @@
+
+	DQL
+
+Para selecionar o que você deseja ver, a tabela ou os dados de uma tabela
+
+SELECT * FROM Artistas;
+
+SELECT Nome FROM Artistas;
+
+SELECT Nome,DataLancamento FROM Albuns;
+
+-- Operadores < > =
+
+SELECT * FROM Albuns WHERE IdAlbum = 1;
+
+SELECT * FROM Albuns WHERE IdAlbum > 1;
+
+-- OR
+
+SELECT Nome, Minutos FROM Albuns - Nessa lógica, se estiver tudo ok retornará vazio, se estiver faltando algo em um dos dois, apareceria o erro
+WHERE (DataLancamento IS NULL) or (Localizacao IS NULL);
+
+-- Ordenação
+
+SELECT Nome FROM Albuns
+ORDER BY Nome;
+
+SELECT IdAlbum, Nome, Minutos FROM Albuns
+ORDER BY Minutos;
+
+-- Ordenacao invertida (do maior para o menor)
+
+SELECT IdAlbum, Nome, Minutos FROM Albuns
+ORDER BY Minutos DESC;
+
+SELECT IdAlbum, Nome, DataLancamento FROM Albuns
+ORDER BY DataLancamento ASC;
+
+-- COUNT
+
+SELECT COUNT (IdAlbum) FROM Albuns;
+

@@ -1,0 +1,73 @@
+	
+	Normalização de banco de dados
+
+	São regras que colaboram para que o seu banco de dados fique mais coerente, sem faltar ou sobrar dados
+
+1º Forma - Quando se tem mais de um dado para algum atributo, é considerado melhor retirar esse atributo da tabela e
+criar uma nova tabela para esse atribudo, assim o que inicialmente era um atributo, vira uma nova tabela 
+usando uma chave estrangeira da tabela anterior
+
+2º Forma - Deve estar na primeira forma e os atributos devem estar relacionados com o a chave da tabela, quando não há ligação 
+com a chave principal, então esse atributo deve ser retirado e ser feita uma nova tabela para ele usando uma chave estrageira
+
+3º Forma - Deve estar na segunda forma e todas e todos os atributos devem ser independentes um do outro e apenas depender da chave primária
+
+	índices
+
+	Os índices podem melhorar o desempenho para uma otimização, ampliando a capacidade do subsistemas de discos e armazenamentos,
+ 	reescrever uma consulta	para realizar construçôes ou refazer um modelo de dados, induzindo o nível de normalização
+
+Os índices no banco de dados serve para facilitar a busca de informações em uma tabela de uma forma mais simplificada, sem muitas operações
+de leituras. No SQL Server se utiliza o mesmo princípio de uma lista telefônica, gravando as informações dos índices em uma estrutura 
+chamada de B-Tree (Árvores binárias). Uma estrutura B-Tree possui um nó-raiz que contém uma única página de dados, uma ou mais páginas 
+de níveis intermediários e uma ou mais páginas de níveis folhas, como é uma estrutura sempre bimétrica, possui o mesmo número de páginas 
+à esquerda e a direita de cada nível. As chaves-primárias podem ser entendidas como índices, permitindo buscas rápidas e eficientes baseadas 
+num valor que nunca se repete. Caso desejado pode-se expandir esse conceito para colunas que não sejam chaves, aumentando o desempenho de 
+buscas usando também aquela coluna.
+
+Deve-se dar um nome ao índice e indicar quais colunas farão parte dele (eventualmente, pode-se acrescentar mais de uma coluna ao mesmo 
+índice, o que leva a considerar todas as informações como parte constante do índice). O final do processo acontece ao apertar o botão 
+Salvar.
+
+ALTER TABLE teste ADD INDEX teste_index (help_category_id)
+
+O comando acima é o gerado a partir das informações inseridas dentro dos campos do formulário auxiliar, indicando que a tabela teste 
+foi modificada para suportar agora um novo índice, chamado teste_index, e que deve atuar sobre o campo help_category_id.
+
+Exemplo: 
+Suponha a existência de uma tabela como:
+
+CREATE TABLE teste1 (
+    id        integer,
+    conteudo  varchar
+);
+e um aplicativo requerendo muitas consultas da forma:
+
+SELECT conteudo FROM teste1 WHERE id = constante;
+
+Pode ser utilizado o seguinte comando para criar um índice na coluna id:
+
+CREATE INDEX idx_teste1_id ON teste1 (id);
+O nome idx_teste1_id pode ser escolhido livremente, mas deve ser usado algo que permita lembrar mais tarde para que serve o índice.
+
+Para remover um índice é utilizado o comando DROP INDEX. Os índices podem ser adicionados ou removidos das tabelas a qualquer instante.
+
+Após o índice ser criado, não é necessária mais nenhuma intervenção adicional: o sistema atualiza o índice quando a tabela é modificada, 
+e utiliza o índice nas consultas quando julgar mais eficiente que a varredura seqüencial da tabela. Porém, talvez seja necessário executar 
+regularmente o comando ANALYZE para atualizar as estatísticas, para permitir que o planejador de comandos tome as decisões corretas. 
+Consulte o Capítulo 13 para obter informações sobre como descobrir se o índice está sendo utilizado; e quando e porque o planejador 
+pode decidir não utilizar um índice.
+
+Os índices também podem beneficiar os comandos de atualização (UPDATE) e de exclusão (DELETE) com condição de procura. Além disso, os 
+índices também podem ser utilizados em consultas com junção. Portanto, um índice definido em uma coluna que faça parte da condição de 
+junção pode acelerar, significativamente, a consulta.
+
+Quando um índice é criado, o sistema precisa mantê-lo sincronizado com a tabela. Isto adiciona um trabalho extra para as operações de 
+manipulação de dados. Portanto, os índices não essenciais ou não utilizados devem ser removidos. Deve ser observado que uma consulta ou 
+um comando de manipulação de dados pode utilizar, no máximo, um índice por tabela.
+
+
+
+
+
+

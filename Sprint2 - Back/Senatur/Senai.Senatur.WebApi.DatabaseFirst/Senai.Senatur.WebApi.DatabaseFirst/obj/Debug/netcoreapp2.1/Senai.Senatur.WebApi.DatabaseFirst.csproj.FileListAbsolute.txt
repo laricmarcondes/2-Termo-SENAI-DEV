@@ -1,0 +1,79 @@
+C:\Users\49393984808\Documents\dev2\sprint2\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.deps.json
+C:\Users\49393984808\Documents\dev2\sprint2\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.runtimeconfig.json
+C:\Users\49393984808\Documents\dev2\sprint2\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.runtimeconfig.dev.json
+C:\Users\49393984808\Documents\dev2\sprint2\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.dll
+C:\Users\49393984808\Documents\dev2\sprint2\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.csprojAssemblyReference.cache
+C:\Users\49393984808\Documents\dev2\sprint2\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.csproj.CoreCompileInputs.cache
+C:\Users\49393984808\Documents\dev2\sprint2\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.RazorAssemblyInfo.cache
+C:\Users\49393984808\Documents\dev2\sprint2\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.RazorAssemblyInfo.cs
+C:\Users\49393984808\Documents\dev2\sprint2\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.AssemblyInfoInputs.cache
+C:\Users\49393984808\Documents\dev2\sprint2\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.AssemblyInfo.cs
+C:\Users\49393984808\Documents\dev2\sprint2\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.RazorTargetAssemblyInfo.cache
+C:\Users\49393984808\Documents\dev2\sprint2\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.pdb
+C:\Users\49393984808\Documents\dev2\sprint2\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.dll
+C:\Users\49393984808\Documents\dev2\sprint2\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.pdb
+C:\Users\49393984808\Documents\dev2\sprint2\senatur\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.deps.json
+C:\Users\49393984808\Documents\dev2\sprint2\senatur\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.runtimeconfig.json
+C:\Users\49393984808\Documents\dev2\sprint2\senatur\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.runtimeconfig.dev.json
+C:\Users\49393984808\Documents\dev2\sprint2\senatur\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.dll
+C:\Users\49393984808\Documents\dev2\sprint2\senatur\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.pdb
+C:\Users\49393984808\Documents\dev2\sprint2\senatur\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.csprojAssemblyReference.cache
+C:\Users\49393984808\Documents\dev2\sprint2\senatur\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.csproj.CoreCompileInputs.cache
+C:\Users\49393984808\Documents\dev2\sprint2\senatur\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.RazorAssemblyInfo.cache
+C:\Users\49393984808\Documents\dev2\sprint2\senatur\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.RazorAssemblyInfo.cs
+C:\Users\49393984808\Documents\dev2\sprint2\senatur\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.AssemblyInfoInputs.cache
+C:\Users\49393984808\Documents\dev2\sprint2\senatur\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.AssemblyInfo.cs
+C:\Users\49393984808\Documents\dev2\sprint2\senatur\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.RazorTargetAssemblyInfo.cache
+C:\Users\49393984808\Documents\dev2\sprint2\senatur\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.dll
+C:\Users\49393984808\Documents\dev2\sprint2\senatur\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.pdb
+C:\Users\49393984808\Documents\dev2\sprint2\senatur\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.xml
+C:\Users\49393984808\Documents\dev2\sprint2\senatur\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.xml
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.deps.json
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.runtimeconfig.json
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.runtimeconfig.dev.json
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.dll
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.pdb
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.xml
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.csprojAssemblyReference.cache
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.csproj.CoreCompileInputs.cache
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.RazorAssemblyInfo.cache
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.RazorAssemblyInfo.cs
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.AssemblyInfoInputs.cache
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.AssemblyInfo.cs
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.RazorTargetAssemblyInfo.cache
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.dll
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.xml
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.pdb
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.csprojAssemblyReference.cache
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.csproj.CoreCompileInputs.cache
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.RazorAssemblyInfo.cache
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.RazorAssemblyInfo.cs
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.AssemblyInfoInputs.cache
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.AssemblyInfo.cs
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.dll
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.xml
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.pdb
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.deps.json
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.runtimeconfig.json
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.runtimeconfig.dev.json
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.dll
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.pdb
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.xml
+C:\Users\43216437833\Documents\2ºTermo-SENAI DEV\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.RazorTargetAssemblyInfo.cache
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.deps.json
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.runtimeconfig.json
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.runtimeconfig.dev.json
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.dll
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.pdb
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.xml
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.csprojAssemblyReference.cache
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.RazorAssemblyInfo.cache
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.RazorAssemblyInfo.cs
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.AssemblyInfoInputs.cache
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.AssemblyInfo.cs
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.RazorTargetAssemblyInfo.cache
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.dll
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.xml
+C:\Users\Larissa\Documents\SENAI\2ºTermo\Minhas coisas\Sprint2\Senatur\Back-End\Senai.Senatur.WebApi.DatabaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DatabaseFirst.pdb

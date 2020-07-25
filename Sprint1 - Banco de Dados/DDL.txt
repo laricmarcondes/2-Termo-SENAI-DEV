@@ -1,0 +1,22 @@
+	DDL
+
+-- ALTERAR ADICIONANDO UMA NOVA COLUNA
+ALTER TABLE nome da tabela, exemplo: Generos
+ADD Descricao VARCHAR(255);
+
+-- ALTERAR TIPO DE DADO
+ALTER TABLE nome da tabela
+ALTER COLUMN dados da coluna, exemplo: Descricao CHAR(100);
+
+--ALTERAR EXCLUINDO UMA COLUNA
+ALTER TABLE e o nome da coluna
+DROP COLUMN e o nome da coluna;
+
+--EXCLUIR UMA TABELA INTEIRA
+--DROP TABLE e o nome da tabela;
+
+--EXCLUIR BANCO DE DADOS
+--Precisa entrar em outro banco, por exemplo: USE RoteiroLivro;
+--Depois coloca: DROP DATABASE e o nome do banco, exemplo: Biblioteca_Tarde; e executar
+
+

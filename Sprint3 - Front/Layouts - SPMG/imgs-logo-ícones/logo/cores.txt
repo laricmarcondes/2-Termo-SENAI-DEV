@@ -1,0 +1,4 @@
+cores
+
+azul	#83BEDF
+verde	#81DF99
